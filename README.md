@@ -1,4 +1,4 @@
-<img width="2831" height="501" alt="image" src="https://github.com/user-attachments/assets/54a13d6c-bb77-4193-803a-c028d2767fac" /># OS Linux
+# OS Linux
 
 ## Администрирование Linux
 
